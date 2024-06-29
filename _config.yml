@@ -14,12 +14,12 @@ timezone: Asia/Hong_Kong
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zhhuang's Blog # the main title
+title: ZhHuang's Blog # the main title
 
-tagline: Notes and thoughts on CV/DL/CE/mylife # it will display as the sub-title
+tagline: Notes on CV,DL,CE... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Notes and thoughts on CV/DL/CE/mylife.
+  Notes and thoughts on CV,DL,CE...
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
