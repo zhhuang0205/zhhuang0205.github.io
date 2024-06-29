@@ -16,7 +16,7 @@ timezone: Asia/Hong_Kong
 
 title: Zhhuang's Blog # the main title
 
-tagline: # it will display as the sub-title
+tagline: Notes and thoughts on CV/DL/CE/mylife # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Notes and thoughts on CV/DL/CE/mylife.
@@ -38,7 +38,7 @@ social:
   email: zhhuang0205@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/zhhuang0205 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
