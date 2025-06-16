@@ -14,12 +14,12 @@ timezone: Asia/Hong_Kong
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ZhHuang's Blog # the main title
+title: Harry.H's Blog # the main title
 
-tagline: Notes on CV,DL,CE... # it will display as the sub-title
+tagline: Notes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Notes and thoughts on CV,DL,CE...
+  Notes & more
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Huang Zihan
+  name: Harry Huang
   email: zhhuang0205@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
